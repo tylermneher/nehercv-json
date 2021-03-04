@@ -2,49 +2,73 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Tyler M. Neher",
-    "label": "Programmer",
+    "label": "Data Scientist and Full-Stack Developer",
     "image": "",
     "email": "tyler.neher@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "+1 (732) 275-5997",
+    "url": "https://www.tylermneher.com",
+    "summary": "Work hard, be mindful, and always reach for the stars!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "15 Woodside Place",
+      "postalCode": "NJ 07733",
+      "city": "Holmdel",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "tylermneher",
+        "url": "https://www.linkedin.com/in/tylermneher"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "tylermneher",
+        "url": "https://github.com/tylermneher"
       }
     ]
   },
+
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Neher & Co. Data Systems LLC",
+      "location": "New Jersey, United States",
+      "description": "Data Science and Full-Stack Dev consultancy and services for hire.",
+      "position": "Owner",
+      "url": "https://neherdata.systems",
+      "startDate": "2020-08-01",
+      "summary": "I provide customized one-on-one data science contract services and technical consultation on problems and projects of any scope or scale.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Client Examples:",
+        "Legal researcher of employment civil law",
+        "Aerospace composites component manufacturer",
+        "Animal Behavior PhD Candidate"
       ]
+    },
+
+    {
+      "name": "Memorial Sloan Kettering Cancer Center",
+      "location": "New York, United States",
+      "description": "Prostate Cancer Clinical Trials Consortium (PCCTC)",
+      "position": "Correlative Science Associate",
+      "url": "https://www.mskcc.org",
+      "startDate": "2019-08-01",
+      "endDate": "2020-03-07",
+      "summary": "Managed twenty-five unique, complex correlative registries, non-therapeutic trials, and correlative studies included in the ​Prostate Cancer Clinical Trials Consortium (PCCTC)​ research portfolio. Developed and implemented improved data management systems and external reporting tools using Excel, VBA, Python 3, SQL, and PowerBI. "
+    },
+
+    {
+      "name": "Hackensack Meridian Health",
+      "location": "New Jersey, United States",
+      "description": "Tumor Banker at the HMH Biorepository​",
+      "position": "Biorepository Technologist",
+      "url": "https://www.hmh.org",
+      "startDate": "2017-06-04",
+      "endDate": "2019-04-14",
+      "summary": "Managed the acquisition, processing, and handling of over three-thousand surgically resected solid tumor samples destined for storage in the ​HMH Biorepository​. Implemented and administered the B​ioFortis Labmatrix​ research database system across our six campus sites. Was the study lead and federal project manager’s point person onsite for our NIH/NCI ​Clinical Proteomic Tumor Analysis Consortium (CPTAC) Phase III​ solid tumor collections contract."
     }
   ],
+
   "volunteer": [
     {
       "organization": "CoderDojo",
@@ -53,9 +77,7 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "highlights": ["Awarded 'Teacher of the Month'"]
     }
   ],
   "education": [
@@ -67,10 +89,7 @@
       "startDate": "2011-06-01",
       "endDate": "2014-01-01",
       "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
     }
   ],
   "awards": [
@@ -94,20 +113,12 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "keywords": ["HTML", "CSS", "Javascript"]
     },
     {
       "name": "Compression",
       "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+      "keywords": ["Mpeg", "MP4", "GIF"]
     }
   ],
   "languages": [
@@ -119,10 +130,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "references": [
@@ -140,18 +148,11 @@
         "Built by all women team of newbie programmers",
         "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
       ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
+      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
       "startDate": "2016-08-24",
       "endDate": "2016-08-24",
       "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
+      "roles": ["Team lead", "Designer"],
       "entity": "Smoogle",
       "type": "application"
     }

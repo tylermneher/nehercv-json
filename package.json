@@ -4,6 +4,8 @@
   "description": "nehercv_json",
   "main": "index.js",
   "scripts": {
+    "start": "npm install && npm run build",
+    "build": "resume export dist/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/tylermneher/nehercv_json/issues"
   },
-  "homepage": "https://github.com/tylermneher/nehercv_json#readme"
+  "homepage": "https://github.com/tylermneher/nehercv_json#readme",
+  "dependencies": {
+    "build": "^0.1.4",
+    "csvjson-csv2json": "^5.0.6",
+    "jxLoader": "^0.1.1",
+    "package.json": "^2.0.1",
+    "timespan": "^2.3.0"
+  }
 }
